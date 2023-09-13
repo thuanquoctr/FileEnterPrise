@@ -1,0 +1,12 @@
+Sparx Systems Enterprise Architect Corporate Edition v7.0.816
+??(Name):3ddown.com
+??(Organization):3ddown.com
+???(Serial):{485BD27C-2202-710c-98CD-44A58-FW70-8SGP-QPUN-3R4Y-C0}
+
+??sparx EA?csdn???????:
+Sparx Systems Enterprise Architect Corporate Edition v7.0.815
+??(Name):3ddown.com
+??(Organization):3ddown.com
+???(Serial):{485BD27C-2202-710c-98CD-44A58-FW70-8SGP-QPUN-3R4Y-C0} 
+
+MDG Integration for Visual Studio 2005???:{7E2262A3-D8E3-362a-6DB5-8D2E4-FW70-N3D9-ND0C-DS2W-C0}
